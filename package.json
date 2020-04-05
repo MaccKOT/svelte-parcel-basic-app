@@ -17,5 +17,8 @@
     "parcel-plugin-svelte": "^4.0.6",
     "sass": "^1.26.1",
     "svelte": "^3.19.1"
+  },
+  "dependencies": {
+    "improved-yarn-audit": "^1.2.0"
   }
 }
